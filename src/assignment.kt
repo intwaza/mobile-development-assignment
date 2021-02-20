@@ -1,13 +1,14 @@
 fun main() {
-    var student= "Belyse"
+    var student= "Intwaza Belyse"
     println(student)
-    var age= 20
+    var age:Byte = 20
     println(age)
     var phonenumber= "0781877792"
     println(phonenumber)
-    var weight= 58
+    var weight= 68
     println(weight)
-    var citizenship="kenya"
-    var Kenya: Boolean= true
-    println(Kenya)
+    var citizen= "Rwanda"
+    println(citizen)
+    var kenyancitizen: Boolean= false
+    println(kenyancitizen)
 }
